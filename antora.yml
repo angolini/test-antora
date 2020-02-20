@@ -1,0 +1,7 @@
+name: Livro Maravilhosooo
+title: O Titulo do Livro Maravilhoso
+version: primeira
+start_page: modules/chap1/page.adoc
+nav:
+- modules/nav.adoc
+
