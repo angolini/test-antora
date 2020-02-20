@@ -1,0 +1,7 @@
+== Segunda pagina
+
+A segunda pagina normalmente é a que vem depois! Porém, há casos em que essa página é só uma página qualquer.
+
+=== A sessão que ninguém quer ler
+
+Era uma vez, numa terra muito distante, um principe que dança divinamente!

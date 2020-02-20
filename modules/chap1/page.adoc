@@ -1,0 +1,27 @@
+== A página
+
+A página que eu lhe mostro agora é por si só a melhor e maior e mais bem apessoada página! Trata-se da página 1.
+
+[source, python]
+----
+x = 1
+if x == 1:
+    # indented four spaces
+    print("x is 1.")
+----
+
+=== A lendária função
+
+Desde os primórdios da humanidade, muito se diz a respeito da função mais primordial do aspecto humano. Não estamos falando da função biológica da fome! Estamos falando da função abaixo.
+
+[source, c]
+----
+#include <stdio.h>
+int main() {
+   // printf() displays the string inside quotation
+   printf("Hello, World!");
+   return 0;
+}
+----
+
+_fim_

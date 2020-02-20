@@ -1,0 +1,13 @@
+= Livro maravilhoso
+:toc: left
+:source-highlighter: coderay
+
+Sumário de uma belezinha
+
+include::modules/chap1/page.adoc[]
+
+include::modules/chap2/page.adoc[]
+
+== Conclusão
+
+Concluimos que deu certo.
